@@ -1,0 +1,8 @@
+{
+  "name": "vite-plugin-inject-console",
+  "version": "1.0.4",
+  "main": "index.js",
+  "repository": "https://github.com/liuyang9189/vite-plugin-inject-console",
+  "author": "liuyang9189 <yokoafter90@gmail.com>",
+  "license": "MIT"
+}
