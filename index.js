@@ -1,5 +1,5 @@
 const fs = require('fs')
-module.exports = (options) => {
+module.exports = (options = {}) => {
     const { packagePath, outParams } = options
     return {
         transformIndexHtml (html) {
